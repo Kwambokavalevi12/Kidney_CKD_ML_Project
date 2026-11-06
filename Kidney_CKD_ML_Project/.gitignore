@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/*.xpt
+results/*.csv
+results/*.json
+results/*.png
+models/*.joblib
